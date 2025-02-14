@@ -12675,7 +12675,7 @@ function tv() {
                 className:
                   "animate__animated animate__ animate__infinite animate__delay-2 bg-red-400 text-white p-2 cursor-pointer font-bold animate__tada animate__animated animate__infinite animate__duration-2s rounded-sm shadow-2xl relative  flex justify-between items-center mt-5",
                 children: [
-                  "For my valentine ",
+                  "Hadiah buat kamu",
                   ll.jsx("img", {
                     className: " w-10 h-10",
                     src: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFldnQ3ajVveXgxcG9zeTRqcHIxbTdlZms1aXd3d2JvbDNhMHQzMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fGHSIjGVYSxq3HApkx/giphy.gif",
@@ -12703,7 +12703,7 @@ const av = ({ toggleFlower: E, showFlower: s }) =>
           ll.jsx("p", {
             className: "mt-5 ",
             children:
-              "i know that i can be a difficult person sometimes, but trust me, i do love you, yesterday, today and forever. You probably wanted a flower for this day and i'm sorry for that.  I can just give you this virtual flower, i promise i'll buy you one by myself one day. I love you Babe❤️, click to the button bellow to get your flower :-).",
+              "Happy Valentine Day, Ayy💕 Gak ada puisi panjang atau gombal-gombalan, cuma mau bilang seneng aja bisa bareng kamu. Dan buat hari ini, aku cuman bisa kasih ini doang buat kamu. Coba deh klik tombol yang dibawah, semoga kamu suka yaa <3. Oiya volumenya jangan di mute yaa",
           }),
           s &&
             ll.jsx("img", {
@@ -12718,7 +12718,7 @@ const av = ({ toggleFlower: E, showFlower: s }) =>
             } animate__duration-2s rounded-sm shadow-2xl ${
               s ? "animate__hinge" : ""
             }`,
-            children: "Get the flower 🌹",
+            children: "Buat kamuu🌹",
           }),
         ],
       }),
